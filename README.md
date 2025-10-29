@@ -1,2 +1,2 @@
-# Online--ivotopis
+# Online-Zivotopis
 Samuel Hudák CV
